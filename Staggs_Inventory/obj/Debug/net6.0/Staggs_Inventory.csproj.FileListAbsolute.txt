@@ -1,0 +1,15 @@
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\bin\Debug\net6.0\Staggs_Inventory.exe
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\bin\Debug\net6.0\Staggs_Inventory.deps.json
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\bin\Debug\net6.0\Staggs_Inventory.runtimeconfig.json
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\bin\Debug\net6.0\Staggs_Inventory.dll
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\bin\Debug\net6.0\Staggs_Inventory.pdb
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.csproj.AssemblyReference.cache
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.AssemblyInfoInputs.cache
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.AssemblyInfo.cs
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.csproj.CoreCompileInputs.cache
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.dll
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\refint\Staggs_Inventory.dll
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.pdb
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\Staggs_Inventory.genruntimeconfig.cache
+D:\School\Csh\Staggs_Inventory_Solution\Staggs_Inventory\obj\Debug\net6.0\ref\Staggs_Inventory.dll
