@@ -11,6 +11,7 @@ namespace Staggs_Inventory
     internal class Shipper
     {
         Ishippable[] shippingList = new Ishippable[0];
+        int[] counts = new int[4];//Bicycles Baseball Lawn Crackers
         public Shipper() { }
         public string add(int itemID)
         {
@@ -37,7 +38,6 @@ namespace Staggs_Inventory
         }
         public string list()
         {
-            int[] counts = new int[4];//Bicycles Baseball Lawn Crackers
             string ItemQuant = string.Empty;
             foreach (Ishippable i in shippingList) 
             {
@@ -64,7 +64,26 @@ namespace Staggs_Inventory
         }
         public double compute()
         {
-            return 0.5;
+            foreach (Ishippable i in shippingList)
+            {
+                if (i.GetType() == typeof(bicycle))
+                {
+                    counts[0]++;
+                }
+                else if (i.GetType() == typeof(mowers))
+                {
+                    counts[1]++;
+                }
+                else if (i.GetType() == typeof(baseballglove))
+                {
+                    counts[2]++;
+                }
+                else if (i.GetType() == typeof(crackers))
+                {
+                    counts[3]++;
+                }
+            }
+            return  0.5;
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿// Colton Staggs
 // IT112 
-// NOTES: 
-// BEHAVIORS NOT IMPLEMENTED AND WHY: 
+// NOTES: Didnt finish ): Will finish if given the oppurtunity to
+// BEHAVIORS NOT IMPLEMENTED AND WHY: compute not completed due to running out of time and improper time management on my part
 namespace Staggs_Inventory
 {
     internal class Program
